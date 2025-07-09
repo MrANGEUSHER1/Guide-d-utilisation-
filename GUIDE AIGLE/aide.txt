@@ -1,0 +1,82 @@
+                \item \textbf{{ Installation et ouverture de XAMPP}, puis lancement des serveurs \textbf{Apache} et \textbf{MySQL}}
+                    \begin{figure}[h] 
+                        \centering 
+                        \includegraphics[width=0.6\textwidth]{./img/xampp.png} 
+                    \end{figure}
+                \item \textbf{ Configurer la Base de données}
+                    \item Créez la base de données dans MySQL que vous pouver nommer uv_projet_db, dans laquelle vous allez stoker toutes les informations relatives a l'application.
+                \item \textbf{ Installer et Configurer Elasticsearch}
+                    \item Téléchargez Elasticsearch depuis le site officiel.
+                    \item Extraire l'archive téléchargée dans un répertoire de votre choix.
+                        \item nb: Remplacer le Fichier elasticsearch.yml
+                    \item 3. Copiez le fichier elasticsearch.yml fourni dans le dépôt à l'emplacement de configuration d'Elasticsearch : 
+                        Sur Windows
+                            copy config\elasticsearch\elasticsearch.yml C:\chemin\vers\elasticsearch\config\
+                          Assurez-vous de remplacer C:\chemin\vers\elasticsearch\ par le chemin réel où Elasticsearch est installé sur votre machine.
+                        Sur Linux
+                            cp config/elasticsearch/elasticsearch.yml /chemin/vers/elasticsearch/config/
+                        Assurez-vous de remplacer /chemin/vers/elasticsearch/ par le chemin réel où Elasticsearch est installé sur votre machine
+                \item \textbf{ Ouvrez l'invite de commande (Cmd) en tant qu’administrateur ou pas, pour démarrer Elasticsearch}
+                    \item Accédez au répertoire d'installation d'Elasticsearch et exécuter la commande qui suit :
+                    \begin{lstlisting}
+                        cd chemin\vers\elasticsearch-8.14.1
+                        ./bin/elasticsearch.bat sur windows
+                        ./bin/elasticsearch sur linux
+                    \end{lstlisting}
+                    \begin{figure}[h] 
+                        \centering 
+                        \includegraphics[width=0.6\textwidth]{./img/elastix.png} 
+                    \end{figure}
+                \item \textbf{ Deploiyer le serveur de développement Laravel sur un second cmd (Celui de vs code de preference)}
+                    \begin{itemize}
+                        \item Entrer le chemin d’accès au dossier backend dans votre terminal :
+                            \begin{lstlisting}
+                                cd C:\chemin\vers\backend\laravel
+                            \end{lstlisting}
+                        \item Faire la migration des tables de l'applications dans la base de données que vous avez créer a l'etape précédentes :
+                            \begin{lstlisting}
+                                php artisan migrate:refresh --seed
+                            \end{lstlisting}
+                        \item Lancer le serveur Laravel :
+                            \begin{lstlisting}
+                                php artisan serve
+                            \end{lstlisting}
+                    \end{itemize}
+                \item \textbf{ Lancer le frontend Angular sur un troisieme cmd}
+                    \item Entrer le chemin d’accès au dossier frontend dans votre terminal :
+                    \begin{lstlisting}
+                        cd chemin\vers\le\frontend
+                    \end{lstlisting}
+                    \item Entrer la commande :
+                    \begin{lstlisting}
+                        ng serve
+                    \end{lstlisting}
+                    L'applcication va commencer a builder et puis vous verez a la fin de l'operation :
+                    \begin{figure}[h] 
+                        \centering 
+                        \includegraphics[width=0.6\textwidth]{./img/angular.png} 
+                    \end{figure}
+                    \item Enfin, copiez le lien d'accès local suivant dans votre navigateur :
+                        \begin{lstlisting}
+                            Local : http://localhost:4200/
+                        \end{lstlisting}
+            \end{enumerate}
+            \begin{itemize}
+                \item Problèmes Courants
+                \begin{enumerate}
+                    \item \textbf{Erreurs de Connexion à la Base de Données :}Vérifiez les paramètres de votre base de données dans le fichier .env.
+                    \item \textbf{Problèmes avec Elasticsearch :}Assurez-vous qu'Elasticsearch est bien démarré et que le port est correctement configuré.
+                \end{enumerate}
+            \end{itemize}
+        \rule{linewidth}{0.3}
+        
+        
+        % Section deux
+
+
+
+\end{document}
+
+
+
+
