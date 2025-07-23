@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.5)  9 JUL 2025 23:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.5)  23 JUL 2025 17:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/ANGE USHER/Desktop/UV. projet v1.1/guide/GUIDE AIGLE/Guide.tex"
-(c:/Users/ANGE USHER/Desktop/UV. projet v1.1/guide/GUIDE AIGLE/Guide.tex
+**"c:/Users/ANGE USHER/Desktop/UV_projet v1.1/guide/GUIDE AIGLE/Guide.tex"
+(c:/Users/ANGE USHER/Desktop/UV_projet v1.1/guide/GUIDE AIGLE/Guide.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -274,39 +274,94 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen172
 \titlewidthlast=\dimen173
 \titlewidthfirst=\dimen174
+) (C:\Program Files\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip54
+\cftbeforetoctitleskip=\skip55
+\cftaftertoctitleskip=\skip56
+\cftbeforepartskip=\skip57
+\cftpartnumwidth=\skip58
+\cftpartindent=\skip59
+\cftbeforesecskip=\skip60
+\cftsecindent=\skip61
+\cftsecnumwidth=\skip62
+\cftbeforesubsecskip=\skip63
+\cftsubsecindent=\skip64
+\cftsubsecnumwidth=\skip65
+\cftbeforesubsubsecskip=\skip66
+\cftsubsubsecindent=\skip67
+\cftsubsubsecnumwidth=\skip68
+\cftbeforeparaskip=\skip69
+\cftparaindent=\skip70
+\cftparanumwidth=\skip71
+\cftbeforesubparaskip=\skip72
+\cftsubparaindent=\skip73
+\cftsubparanumwidth=\skip74
+\cftbeforeloftitleskip=\skip75
+\cftafterloftitleskip=\skip76
+\cftbeforefigskip=\skip77
+\cftfigindent=\skip78
+\cftfignumwidth=\skip79
+\c@lofdepth=\count295
+\c@lotdepth=\count296
+\cftbeforelottitleskip=\skip80
+\cftafterlottitleskip=\skip81
+\cftbeforetabskip=\skip82
+\cfttabindent=\skip83
+\cfttabnumwidth=\skip84
+) (C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen175
+\captionmargin=\dimen176
+\caption@leftmargin=\dimen177
+\caption@rightmargin=\dimen178
+\caption@width=\dimen179
+\caption@indent=\dimen180
+\caption@parindent=\dimen181
+\caption@hangindent=\dimen182
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count297
+\c@continuedfloat=\count298
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 ) (C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
+\l__color_backend_stack_int=\count299
 \l__pdf_internal_box=\box55
 ) (Guide.aux)
 \openout1 = `Guide.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Info: Redefining \degres on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \degres on input line 32.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 26.
+(french.ldf)             reported on input line 32.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 26.
-LaTeX Info: Redefining \up on input line 26.
+(french.ldf)             reported on input line 32.
+LaTeX Info: Redefining \up on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -342,19 +397,19 @@ LaTeX Info: Redefining \up on input line 26.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count296
+\c@lstlisting=\count300
 (C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count297
-\scratchdimen=\dimen175
+\scratchcounter=\count301
+\scratchdimen=\dimen183
 \scratchbox=\box56
-\nofMPsegments=\count298
-\nofMParguments=\count299
+\nofMPsegments=\count302
+\nofMParguments=\count303
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count300
-\MPscratchDim=\dimen176
-\MPnumerator=\count301
-\makeMPintoPDFobject=\count302
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen184
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
 \everyMPtoPDFconversion=\toks26
 ) (C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -362,108 +417,164 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 32.
  (Guide.out) (Guide.out)
 \@outlinefile=\write3
 \openout3 = `Guide.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 29.
+(Font)              <14.4> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 29.
+(Font)              <7> on input line 35.
  [1
 
 {C:/Users/ANGE USHER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Guide.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
+(Font)              <6> on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `Guide.toc'.
 
  [2
 
-]
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 37--38
+] (Guide.lof)
+\tf@lof=\write5
+\openout5 = `Guide.lof'.
+
+ [3]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 45--46
 [][] 
  []
 
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 49--50
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 57--58
 [][] 
  []
 
+<./img/logo1.jpg, id=127, 376.40625pt x 376.40625pt>
+File: ./img/logo1.jpg Graphic file (type jpg)
+<use ./img/logo1.jpg>
+Package pdftex.def Info: ./img/logo1.jpg  used on input line 61.
+(pdftex.def)             Requested size: 341.43307pt x 341.45618pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 52--56
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 65--69
 [][]
  []
 
-[3
+[4
 
-]
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 81--82
+ <./img/logo1.jpg>]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 94--95
 [][] 
  []
 
-[4]
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 89--90
+[5]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 102--103
 [][] 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 131.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 144.
 (C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [5]
-<./img/path.png, id=65, 438.13687pt x 376.40625pt>
+) [6]
+<./img/path.png, id=145, 438.13687pt x 376.40625pt>
 File: ./img/path.png Graphic file (type png)
 <use ./img/path.png>
-Package pdftex.def Info: ./img/path.png  used on input line 162.
-(pdftex.def)             Requested size: 264.0424pt x 226.84485pt.
-<./img/xampp.png, id=67, 439.6425pt x 236.38312pt>
-File: ./img/xampp.png Graphic file (type png)
-<use ./img/xampp.png>
-Package pdftex.def Info: ./img/xampp.png  used on input line 168.
-(pdftex.def)             Requested size: 318.66948pt x 171.34271pt.
- [6 <./img/path.png> <./img/xampp.png>]
-<./img/elastix.png, id=86, 455.45157pt x 85.06781pt>
-File: ./img/elastix.png Graphic file (type png)
-<use ./img/elastix.png>
-Package pdftex.def Info: ./img/elastix.png  used on input line 212.
-(pdftex.def)             Requested size: 364.19667pt x 68.02448pt.
- [7 <./img/elastix.png>]
-<./img/angular.png, id=116, 421.575pt x 63.23625pt>
-File: ./img/angular.png Graphic file (type png)
-<use ./img/angular.png>
-Package pdftex.def Info: ./img/angular.png  used on input line 235.
-(pdftex.def)             Requested size: 364.19667pt x 54.63008pt.
+Package pdftex.def Info: ./img/path.png  used on input line 170.
+(pdftex.def)             Requested size: 318.66948pt x 273.7749pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 244--245
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 174--175
 [][] 
  []
 
-[8 <./img/angular.png>] [9] (Guide.aux)
+<./img/xampp.png, id=147, 439.6425pt x 236.38312pt>
+File: ./img/xampp.png Graphic file (type png)
+<use ./img/xampp.png>
+Package pdftex.def Info: ./img/xampp.png  used on input line 186.
+(pdftex.def)             Requested size: 341.43307pt x 183.58456pt.
+[7 <./img/path.png>]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 189--190
+[][] 
+ []
+
+<./img/bd.png, id=166, 962.84718pt x 508.14844pt>
+File: ./img/bd.png Graphic file (type png)
+<use ./img/bd.png>
+Package pdftex.def Info: ./img/bd.png  used on input line 200.
+(pdftex.def)             Requested size: 432.48051pt x 228.23822pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 204--205
+[][] 
+ []
+
+[8 <./img/xampp.png> <./img/bd.png>]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 257--258
+[][] 
+ []
+
+[9]
+<./img/elastix.png, id=202, 455.45157pt x 85.06781pt>
+File: ./img/elastix.png Graphic file (type png)
+<use ./img/elastix.png>
+Package pdftex.def Info: ./img/elastix.png  used on input line 272.
+(pdftex.def)             Requested size: 455.24411pt x 85.03125pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 276--277
+[][] 
+ []
+
+<./img/back.jpg, id=203, 640.64343pt x 146.04562pt>
+File: ./img/back.jpg Graphic file (type jpg)
+<use ./img/back.jpg>
+Package pdftex.def Info: ./img/back.jpg  used on input line 287.
+(pdftex.def)             Requested size: 455.24411pt x 103.78223pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 291--292
+[][] 
+ []
+
+[10 <./img/elastix.png> <./img/back.jpg>]
+<./img/angular.png, id=219, 421.575pt x 63.23625pt>
+File: ./img/angular.png Graphic file (type png)
+<use ./img/angular.png>
+Package pdftex.def Info: ./img/angular.png  used on input line 303.
+(pdftex.def)             Requested size: 455.24411pt x 68.28833pt.
+<./img/ok.png, id=220, 962.09438pt x 499.11469pt>
+File: ./img/ok.png Graphic file (type png)
+<use ./img/ok.png>
+Package pdftex.def Info: ./img/ok.png  used on input line 317.
+(pdftex.def)             Requested size: 455.24411pt x 236.17564pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 321--322
+[][] 
+ []
+
+[11 <./img/angular.png> <./img/ok.png>] [12] [13] (Guide.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `Guide.out' has not changed.
-(rerunfilecheck)             Checksum: 8785BEC87E9A54A877B56601C9395FC1;1000.
+(rerunfilecheck)             Checksum: 5846137D9503ED88F679331DB78C5517;3962.
  ) 
 Here is how much of TeX's memory you used:
- 13831 strings out of 474486
- 218365 string characters out of 5741360
- 2014542 words of memory out of 5000000
- 35908 multiletter control sequences out of 15000+600000
- 568831 words of font info for 58 fonts, out of 8000000 for 9000
+ 15489 strings out of 474486
+ 249450 string characters out of 5741360
+ 2037542 words of memory out of 5000000
+ 37520 multiletter control sequences out of 15000+600000
+ 570206 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,350b,2054s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1440.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1200.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
-Output written on Guide.pdf (9 pages, 776556 bytes).
+ 75i,7n,79p,404b,1269s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1440.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1728.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1200.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
+Output written on Guide.pdf (13 pages, 1514780 bytes).
 PDF statistics:
- 497 PDF objects out of 1000 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
- 69 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 665 PDF objects out of 1000 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

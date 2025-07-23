@@ -1,6 +1,6 @@
-PWD c:\Users\ANGE USHER\Desktop\UV. projet v1.1\guide\GUIDE AIGLE
+PWD c:\Users\ANGE USHER\Desktop\UV_projet v1.1\guide\GUIDE AIGLE
 INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\ANGE USHER\Desktop\UV. projet v1.1\guide\GUIDE AIGLE\Guide.tex
+INPUT c:\Users\ANGE USHER\Desktop\UV_projet v1.1\guide\GUIDE AIGLE\Guide.tex
 OUTPUT Guide.log
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -128,6 +128,12 @@ INPUT C:\Program Files\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tocloft\tocloft.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tocloft\tocloft.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\Guide.aux
@@ -171,7 +177,18 @@ INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 OUTPUT Guide.toc
+INPUT .\Guide.lof
+INPUT .\Guide.lof
+INPUT Guide.lof
+OUTPUT Guide.lof
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1200.tfm
+INPUT .\img\logo1.jpg
+INPUT .\img\logo1.jpg
+INPUT .\img\logo1.jpg
+INPUT .\img\logo1.jpg
+INPUT .\img\logo1.jpg
+INPUT .\img\logo1.jpg
+INPUT .\img\logo1.jpg
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
@@ -184,6 +201,7 @@ INPUT .\img\path.png
 INPUT .\img\path.png
 INPUT .\img\path.png
 INPUT .\img\path.png
+INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\eccc1200.tfm
 INPUT .\img\xampp.png
 INPUT .\img\xampp.png
 INPUT .\img\xampp.png
@@ -191,6 +209,13 @@ INPUT .\img\xampp.png
 INPUT .\img\xampp.png
 INPUT .\img\xampp.png
 INPUT .\img\xampp.png
+INPUT .\img\bd.png
+INPUT .\img\bd.png
+INPUT .\img\bd.png
+INPUT .\img\bd.png
+INPUT .\img\bd.png
+INPUT .\img\bd.png
+INPUT .\img\bd.png
 INPUT .\img\elastix.png
 INPUT .\img\elastix.png
 INPUT .\img\elastix.png
@@ -198,6 +223,13 @@ INPUT .\img\elastix.png
 INPUT .\img\elastix.png
 INPUT .\img\elastix.png
 INPUT .\img\elastix.png
+INPUT .\img\back.jpg
+INPUT .\img\back.jpg
+INPUT .\img\back.jpg
+INPUT .\img\back.jpg
+INPUT .\img\back.jpg
+INPUT .\img\back.jpg
+INPUT .\img\back.jpg
 INPUT .\img\angular.png
 INPUT .\img\angular.png
 INPUT .\img\angular.png
@@ -205,12 +237,24 @@ INPUT .\img\angular.png
 INPUT .\img\angular.png
 INPUT .\img\angular.png
 INPUT .\img\angular.png
+INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1728.tfm
+INPUT .\img\ok.png
+INPUT .\img\ok.png
+INPUT .\img\ok.png
+INPUT .\img\ok.png
+INPUT .\img\ok.png
+INPUT .\img\ok.png
+INPUT .\img\ok.png
 INPUT C:\Users\ANGE USHER\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1440.tfm
 INPUT Guide.aux
 INPUT .\Guide.out
 INPUT .\Guide.out
 INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1440.pk
 INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1440.pk
+INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1728.pk
+INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1728.pk
+INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk
+INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk
 INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
 INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
 INPUT C:\Users\ANGE USHER\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
