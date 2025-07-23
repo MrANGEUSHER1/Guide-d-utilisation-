@@ -1,0 +1,21 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{À propos du guide}{4}{Doc-Start}%
+\contentsline {section}{Introduction}{5}{Doc-Start}%
+\contentsline {section}{Guide de déploiement de l’application}{6}{Doc-Start}%
+\contentsline {subsection}{\numberline {1}Prérequis}{6}{subsection.0.1}%
+\contentsline {subsubsection}{\numberline {1.1}Logiciels nécessaires :}{6}{subsubsection.0.1.1}%
+\contentsline {subsubsection}{\numberline {1.2}Configuration minimale recommandée :}{6}{subsubsection.0.1.2}%
+\contentsline {subsubsection}{\numberline {1.3}Outils supplémentaires :}{6}{subsubsection.0.1.3}%
+\contentsline {subsection}{\numberline {2}Étapes de déploiement}{6}{subsection.0.2}%
+\contentsline {subsubsection}{\numberline {2.1}Cloner le dépôt GitHub}{6}{subsubsection.0.2.1}%
+\contentsline {subsubsection}{\numberline {2.2}Configurer l’environnement}{7}{subsubsection.0.2.2}%
+\contentsline {subsubsection}{\numberline {2.3}Modifier les variables d’environnement}{7}{subsubsection.0.2.3}%
+\contentsline {subsubsection}{\numberline {2.4}Générer la clé d'application}{8}{subsubsection.0.2.4}%
+\contentsline {subsubsection}{\numberline {2.5}Configurer XAMPP et les serveurs Apache et MySQL}{8}{subsubsection.0.2.5}%
+\contentsline {subsubsection}{\numberline {2.6}Créer la base de données sur MySQL}{8}{subsubsection.0.2.6}%
+\contentsline {subsubsection}{\numberline {2.7}Remplacer le fichier elasticsearch.yml selon votre OS}{8}{subsubsection.0.2.7}%
+\contentsline {subsubsection}{\numberline {2.8}Lancer Elasticsearch}{9}{subsubsection.0.2.8}%
+\contentsline {subsubsection}{\numberline {2.9}Lancer le backend avec Laravel}{9}{subsubsection.0.2.9}%
+\contentsline {subsubsection}{\numberline {2.10}Lancer le frontend avec Angular}{10}{subsubsection.0.2.10}%
+\contentsline {section}{Problèmes courants }{10}{figure.5}%
+\contentsline {section}{Conclusion}{11}{figure.5}%
